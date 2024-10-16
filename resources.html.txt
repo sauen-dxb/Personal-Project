@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resources</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mental Health Resources</h1>
+    </header>
+    <main>
+        <h2>Support and Information</h2>
+        <p>Below are some resources for mental health support and education:</p>
+        <ul>
+            <li><a href="https://www.crisistextline.org/">Crisis Text Line</a> - 24/7 support via text message.</li>
+            <li><a href="https://www.nami.org/">National Alliance on Mental Illness (NAMI)</a> - Information and support for mental health conditions.</li>
+            <li><a href="https://www.mind.org.uk/">Mind</a> - A mental health charity offering information and support (UK).</li>
+            <li><a href="https://www.samaritans.org/">Samaritans</a> - Support for those in crisis, available 24/7 (UK).</li>
+            <li><a href="https://www.mentalhealth.gov

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog 4 - Music's Role in Shaping Emotional Perceptions</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Blog: Music's Role in Shaping Emotional Perceptions</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../case_studies/case1.html">Case Study 1</a></li>
+                <li><a href="../resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>The Power of Lyrics and Sound in Expressing Pain</h2>
+        <p>
+            Music has a unique ability to evoke emotions, and artists like Billie Eilish and Lana Del Rey often tap into themes of sadness, loneliness, and despair. Through their lyrics and soundscapes, they create a world where listeners can find comfort in shared pain. However, when music continually focuses on themes of suffering, it can influence how listeners view their own emotions.
+        </p>
+        <h3>Striking a Balance Between Catharsis and Glamorization</h3>
+        <p>
+            While music can provide an important outlet for processing difficult emotions, there is a fine line between offering catharsis and glamorizing pain. Artists and audiences alike should consider how music's representation of mental health impacts listeners' well-being.
+        </p>
+        <img src="../images/blog4.jpg" alt="Music and Emotions">
+    </main>
+    <footer>
+        <p>© 2024 Aestheticization of Suffering</p>
+    </footer>
+</body>
+</html>

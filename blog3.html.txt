@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog 3 - Social Media and the Aesthetic of Sadness</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Blog: Social Media and the Aesthetic of Sadness</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../case_studies/case1.html">Case Study 1</a></li>
+                <li><a href="../resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>The Influence of Platforms Like Tumblr and TikTok</h2>
+        <p>
+            Social media platforms, particularly those that emphasize visual content, have played a significant role in shaping how sadness and mental health are perceived. On platforms like Tumblr and TikTok, there are communities that engage with themes of sadness, loneliness, and despair, often presenting them in a visually appealing or poetic manner.
+        </p>
+        <h3>Risks of Romanticizing Mental Health Struggles Online</h3>
+        <p>
+            When sadness is presented as an aesthetic to be curated, rather than an emotional state that requires attention, it can lead to the normalization of mental health struggles. Individuals may feel pressured to align their identities with these themes, viewing sadness as a central part of self-expression rather than seeking support.
+        </p>
+        <img src="../images/blog3.jpg" alt="Social Media and Sadness">
+    </main>
+    <footer>
+        <p>© 2024 Aestheticization of Suffering</p>
+    </footer>
+</body>
+</html>

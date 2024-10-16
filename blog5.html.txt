@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog 5 - Ethical Considerations in Media Portrayals</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Blog: Ethical Considerations in Media Portrayals</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../case_studies/case1.html">Case Study 1</a></li>
+                <li><a href="../resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>The Moral Responsibility of Artists and Media Creators</h2>
+        <p>
+            When dealing with themes of mental illness and suffering, creators face ethical dilemmas. How can they portray these experiences in a way that raises awareness without romanticizing or trivializing them? It is essential to strike a balance between artistic expression and social responsibility, especially when considering the potential influence on vulnerable audiences.
+        </p>
+        <h3>Potential Impacts on Audiences</h3>
+        <p>
+            When suffering is presented as something noble or intrinsically valuable, it can affect how individuals view their struggles. Media creators should be mindful of the messages they send, aiming to inspire empathy and understanding rather than glamorizing distress.
+        </p>
+        <img src="../images/blog5.jpg" alt="Ethical Media Portrayals">
+    </main>
+    <footer>
+        <p>© 2024 Aestheticization of Suffering</p>
+    </footer>
+</body>
+</html>
